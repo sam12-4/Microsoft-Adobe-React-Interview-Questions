@@ -1,0 +1,9 @@
+.randomColor{
+    height: 100vh;
+}
+
+.flex{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
